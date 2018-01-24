@@ -22,3 +22,9 @@
 .bg-light {
     background-color: #d4d4d4 !important;
 }
+
+.portfolio-modal .modal-bodyleft {
+  padding: 0px 75px;
+  text-align: left;
+}
+
