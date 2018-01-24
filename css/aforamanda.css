@@ -10,3 +10,11 @@
     margin: 8px 15px;
   }
 }
+
+.tag-bg {
+  border-radius: 3px;
+  background: #DADADA;
+  margin: 5px;
+  padding: 8px;
+  display: inline-block
+}
