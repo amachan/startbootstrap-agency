@@ -18,3 +18,7 @@
   padding: 8px;
   display: inline-block
 }
+
+.bg-light {
+    background-color: #d4d4d4 !important;
+}
